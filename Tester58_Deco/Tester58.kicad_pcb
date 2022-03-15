@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 73)
+    (drawings 72)
     (tracks 0)
     (zones 0)
     (modules 10)
@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.5)
     (user_trace_width 0.5)
     (trace_clearance 0.2)
@@ -334,7 +334,6 @@
   (gr_line (start 48.66106 103.709855) (end 20.194797 101.21938) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 48.801041 101.525944) (end 48.66106 103.709855) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 67.77855 103.186261) (end 48.801041 101.525944) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 60.188638 81.379577) (end 59.950112 83.378594) (layer F.Fab) (width 0.15))
   (gr_line (start 140.701118 35.271246) (end 135.73262 92.204862) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 121.723609 33.610929) (end 140.701118 35.271246) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 122.089664 29.426911) (end 121.723609 33.610929) (layer Edge.Cuts) (width 0.15))
